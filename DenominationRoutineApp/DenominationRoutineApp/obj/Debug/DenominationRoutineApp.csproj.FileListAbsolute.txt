@@ -1,0 +1,7 @@
+D:\DenominationRoutineApp\DenominationRoutineApp\bin\Debug\DenominationRoutineApp.exe.config
+D:\DenominationRoutineApp\DenominationRoutineApp\bin\Debug\DenominationRoutineApp.exe
+D:\DenominationRoutineApp\DenominationRoutineApp\bin\Debug\DenominationRoutineApp.pdb
+D:\DenominationRoutineApp\DenominationRoutineApp\obj\Debug\DenominationRoutineApp.csproj.AssemblyReference.cache
+D:\DenominationRoutineApp\DenominationRoutineApp\obj\Debug\DenominationRoutineApp.csproj.CoreCompileInputs.cache
+D:\DenominationRoutineApp\DenominationRoutineApp\obj\Debug\DenominationRoutineApp.exe
+D:\DenominationRoutineApp\DenominationRoutineApp\obj\Debug\DenominationRoutineApp.pdb
